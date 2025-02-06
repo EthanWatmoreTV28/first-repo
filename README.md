@@ -1,5 +1,5 @@
 # first-repo
 
-*******
-*hello*
-*WORLD*
+print("hello")
+
+print("world")
