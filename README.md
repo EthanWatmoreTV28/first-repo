@@ -1,5 +1,5 @@
 # first-repo
 
-print("hello")
+*hello*
 
-print("world")
+*world*
