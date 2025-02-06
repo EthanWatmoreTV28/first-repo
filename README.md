@@ -1,5 +1,4 @@
 # first-repo
 
 *hello*
-
 *world*
